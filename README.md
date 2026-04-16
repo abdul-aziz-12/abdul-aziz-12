@@ -59,9 +59,9 @@ I am focused on building and shipping AI-powered data products combining LLMs wi
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/Arima%based%Predictive%Modelling.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/Arima%20based%20Predictive%20Modelling.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/K-based%Clustering.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/K-based%20Clustering.png" width="700"/>
 </p>
