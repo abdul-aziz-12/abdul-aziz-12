@@ -19,3 +19,41 @@ I am focused on building and shipping AI-powered data products combining LLMs wi
 [![](https://visitcount.itsvg.in/api?id=abdul-aziz-12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+
+# 🚀 Featured Projects & Dashboards
+
+## 🔗 OnChainIQ – On-Chain Analytics & Whale Tracking  
+[View Repository](https://github.com/abdul-aziz-12/OnChainIQ)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/OnChainIQ/main/analytics/1.jpg" width="700"/>
+</p>
+
+---
+
+## 🎰 Casino CashRake Profitability Simulation  
+[View Repository](https://github.com/abdul-aziz-12/Casino-CashRake-Bonus-Profitability-Simulation-using-Python)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Casino-CashRake-Bonus-Profitability-Simulation-using-Python/main/Profit_Revenue_Cost_Original.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Casino-CashRake-Bonus-Profitability-Simulation-using-Python/main/Players_Time_Original.png" width="700"/>
+</p>
+
+---
+
+## 📊 HDI vs Stock Market Analysis  
+[View Repository](https://github.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/HDI%20Indicators%20vs%20Index%20Value.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/PCA_All.png" width="700"/>
+</p>
