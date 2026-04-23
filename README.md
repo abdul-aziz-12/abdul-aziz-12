@@ -99,22 +99,6 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ---
 
-## 📌 Weekly Sales Trend by Promotion
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/weekly_trend.png" width="700"/>
-</p>
-
----
-
-## 📌 Store Age vs Sales (Scatter Plot)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/scatter.png" width="700"/>
-</p>
-
----
-
 ## 📌 Market Size vs Promotion Heatmap
 
 <p align="center">
@@ -125,9 +109,9 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ## 🔥 Key Business Insights
 
-- 📉 **Promotion 2 consistently underperforms across all models**
-- 🏬 **Market Size is the strongest driver of sales variation**
-- 📈 **Promotion 1 and Promotion 3 show no statistically significant difference**
-- 🧠 **Store characteristics explain more variation than time (weeks)**
+- **Promotion 2 consistently underperforms across all models**
+- **Market Size is the strongest driver of sales variation**
+- **Promotion 1 and Promotion 3 show no statistically significant difference**
+- **Store characteristics explain more variation than time (weeks)**
 
 
