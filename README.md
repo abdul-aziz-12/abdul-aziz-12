@@ -75,7 +75,7 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ---
 
-## 📌 Sales Distribution
+## Sales Distribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/sales_hist.png" width="700"/>
@@ -83,7 +83,7 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ---
 
-## 📌 Sales by Promotion (Boxplot)
+## Sales by Promotion (Boxplot)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/box_promo.png" width="700"/>
@@ -91,7 +91,7 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ---
 
-## 📌 Sales by Market Size
+## Sales by Market Size
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/box_market.png" width="700"/>
@@ -99,7 +99,7 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ---
 
-## 📌 Market Size vs Promotion Heatmap
+## Market Size vs Promotion Heatmap
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/heatmap.png" width="700"/>
