@@ -65,3 +65,23 @@ I am focused on building and shipping AI-powered data products combining LLMs wi
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-aziz-12/Humand-Development-Index-and-Stock-Market-Indicator-Analysis/main/K-based%20Clustering.png" width="700"/>
 </p>
+
+
+## 📊 Marketing Campaign Analysis  
+[View Repository](https://github.com/abdul-aziz-12/marketing-campaign-analysis)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/sales_hist.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/box_promo.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/box_market.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/heatmap.png" width="700"/>
+</p>
