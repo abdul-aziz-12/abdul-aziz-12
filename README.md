@@ -67,21 +67,67 @@ I am focused on building and shipping AI-powered data products combining LLMs wi
 </p>
 
 
-## 📊 Marketing Campaign Analysis  
-[View Repository](https://github.com/abdul-aziz-12/marketing-campaign-analysis)
+## 📊 Promotion A/B Test Analysis  
+[View Repository](https://github.com/abdul-aziz-12/Promotion-AB-Analysis)
+
+A full statistical and machine learning analysis of a retail A/B marketing experiment comparing **Promotion 1, 2, and 3** across multiple stores.  
+The objective is to identify which promotion drives the highest sales and understand key business drivers affecting performance.
+
+---
+
+## 📌 Sales Distribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/sales_hist.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/sales_hist.png" width="700"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/box_promo.png" width="700"/>
-</p>
+---
+
+## 📌 Sales by Promotion (Boxplot)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/box_market.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/box_promo.png" width="700"/>
 </p>
 
+---
+
+## 📌 Sales by Market Size
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/marketing-campaign-analysis/main/images/heatmap.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/box_market.png" width="700"/>
 </p>
+
+---
+
+## 📌 Weekly Sales Trend by Promotion
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/weekly_trend.png" width="700"/>
+</p>
+
+---
+
+## 📌 Store Age vs Sales (Scatter Plot)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/scatter.png" width="700"/>
+</p>
+
+---
+
+## 📌 Market Size vs Promotion Heatmap
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/heatmap.png" width="700"/>
+</p>
+
+---
+
+## 🔥 Key Business Insights
+
+- 📉 **Promotion 2 consistently underperforms across all models**
+- 🏬 **Market Size is the strongest driver of sales variation**
+- 📈 **Promotion 1 and Promotion 3 show no statistically significant difference**
+- 🧠 **Store characteristics explain more variation than time (weeks)**
+
+
