@@ -116,20 +116,14 @@ The objective is to identify which promotion drives the highest sales and unders
 ## 🍽️ Lyon Restaurant Intelligence — Dashboard Preview  
 [View Repository](https://github.com/abdul-aziz-12/restaurant-decision-intelligence)
 
-<p align="center">
-  <img src="images_output/Restaurant_Sentiment_Dashboard.png" width="700"/>
-</p>
+![Sentiment Dashboard](https://raw.githubusercontent.com/abdul-aziz-12/restaurant-decision-intelligence/main/images_output/Restaurant_Sentiment_Dashboard.png)
 
-<p align="center">
-  <img src="images_output/Customer_Decision.png" width="700"/>
-</p>
+![Review Analytics](https://raw.githubusercontent.com/abdul-aziz-12/restaurant-decision-intelligence/main/images_output/Restaurant_Review_Analytics.png)
 
-<p align="center">
-  <img src="images_output/Result_Restaurant.png" width="700"/>
-</p>
+![Revenue Chart](https://raw.githubusercontent.com/abdul-aziz-12/restaurant-decision-intelligence/main/images_output/Result_Restaurant.png)
 
-<p align="center">
-  <img src="images_output/Podium_result.png" width="700"/>
-</p>
+![Restaurant Finder](https://raw.githubusercontent.com/abdul-aziz-12/restaurant-decision-intelligence/main/images_output/Customer_Decision.png)
+
+![Top 3 Podium](https://raw.githubusercontent.com/abdul-aziz-12/restaurant-decision-intelligence/main/images_output/Podium_result.png)
 
 ---
