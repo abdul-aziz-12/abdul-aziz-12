@@ -111,3 +111,25 @@ The objective is to identify which promotion drives the highest sales and unders
 - **Store characteristics explain more variation than time (weeks)**
 
 
+---
+
+## 🍽️ Lyon Restaurant Intelligence — Dashboard Preview  
+[View Repository](https://github.com/abdul-aziz-12/restaurant-decision-intelligence)
+
+<p align="center">
+  <img src="images_output/Restaurant_Sentiment_Dashboard.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images_output/Customer_Decision.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images_output/Result_Restaurant.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images_output/Podium_result.png" width="700"/>
+</p>
+
+---
