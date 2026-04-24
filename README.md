@@ -77,10 +77,6 @@ The objective is to identify which promotion drives the highest sales and unders
 
 ## Sales Distribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-aziz-12/Promotion-AB-Analysis/main/images/sales_hist.png" width="700"/>
-</p>
-
 ---
 
 ## Sales by Promotion (Boxplot)
